@@ -50,7 +50,7 @@ text-align: center;
 
 
 .heading{
-   
+    display: block;
     text-align: center;
     font-size: 30px;
     font-style: italic;
