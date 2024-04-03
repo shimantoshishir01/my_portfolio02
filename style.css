@@ -39,7 +39,8 @@ text-align: center;
     border-color: white;
     background: black;
     color: white;
-    text-align: center;  
+    text-align: center;
+    display: block; 
 }
 
 .blogging{
